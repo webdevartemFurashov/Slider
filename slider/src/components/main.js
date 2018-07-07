@@ -25,8 +25,8 @@ const LightText = styled.div`
 	margin-top:54px;
 `
 const Callbtn = styled.button`
-	width:247;
-	height:67;
+	width:247px;
+	height:67px;
 	background-color:#ffa14b;
 	border-radius:30px
 	margin-top:32px;
